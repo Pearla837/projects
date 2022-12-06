@@ -1,0 +1,14 @@
+/* this css file is empty so you can create your own styles and coloring. 
+Please take a look at the example file CSS for inspiration.
+*/
+body{
+
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:aliceblue;
+  background-color:cadetblue;
+}
+
+image{
+  width: 134px;
+}
